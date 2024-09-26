@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
+<picture><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></picture> 
 </div>
 <div id="hey" align="center">
   <h1>
